@@ -1,4 +1,4 @@
-package com.xinwu.datastructure.chapter3;
+package com.xinwu.datastructure.chapter3.moocarraylist;
 
 import java.util.Iterator;
 
